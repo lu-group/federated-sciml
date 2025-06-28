@@ -45,7 +45,7 @@ If you use this data or code for academic research, you are encouraged to cite t
 ```
 @ARTICLE{11053778,
   author   = {Zhang, Handi and Liu, Langchen and Weng, Kangyu and Lu, Lu},
-  journal={IEEE Transactions on Neural Networks and Learning Systems}, 
+  journal  = {IEEE Transactions on Neural Networks and Learning Systems}, 
   title    = {Federated Scientific Machine Learning for Approximating Functions and Solving Differential Equations With Data Heterogeneity}, 
   year     = {2025},
   volume   = {},
