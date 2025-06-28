@@ -2,7 +2,7 @@
 
 # Federated scientific machine learning for approximating functions and solving differential equations with data heterogeneity
 
-The data and code for the paper [H. Zhang, L. Liu, K. Weng, & L. Lu. Federated scientific machine learning for approximating functions and solving differential equations with data heterogeneity](https://ieeexplore.ieee.org/document/11053778)
+The data and code for the paper H. Zhang, L. Liu, K. Weng, & L. Lu. [Federated scientific machine learning for approximating functions and solving differential equations with data heterogeneity.](https://ieeexplore.ieee.org/document/11053778) IEEE Transactions on Neural Networks and Learning Systems, 2025. 
 
 ## Datasets
 
