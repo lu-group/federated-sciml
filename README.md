@@ -31,6 +31,7 @@ All codes are provided in the folder [src](src), including training centralized 
 - [Helmholtz equation](src/FedPINN/run_fedpinn_helmholtz.py)
 - [Allen Cahn equation](src/FedPINN/run_fedpinn_allencahn.py)
 - [Multiclient Allen Cahn](src/FedPINN/Multi_Allen_Cahn)
+- [Inverse Navier-Stokes equation](src/FedPINN/Inverse_NS/)
 - [Inverse Diffusion-reaction equation](src/FedPINN/Inverse_dr/)
 
 ### FedDeepONet
