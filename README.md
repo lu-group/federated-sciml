@@ -54,7 +54,6 @@ If you use this data or code for academic research, you are encouraged to cite t
   volume   = {},
   number   = {},
   pages    = {1-14},
-  keywords = {Data models;Mathematical models;Training;Servers;Data privacy;Distributed databases;Neural networks;Machine learning;Function approximation;Numerical models;Data heterogeneity;federated learning (FL);function approximation;operator learning;physics-informed neural networks (PINNs);scientific machine learning (SciML)},
   doi      = {10.1109/TNNLS.2025.3580409}
 }
 
